@@ -7,3 +7,5 @@ base v- idk
 v1- Bugfixes, new decks and jokers
 
 v2-bugfixes, new decks, jokers, AND a new voucher. Additionally, the mystery pack has been changed to only be consumables
+
+v3- Again, bugfixes, new decks and jokers
