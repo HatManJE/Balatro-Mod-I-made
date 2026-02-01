@@ -11,3 +11,5 @@ v2-bugfixes, new decks, jokers, AND a new voucher. Additionally, the mystery pac
 v3- Again, bugfixes, new decks and jokers
 
 v4- New decks (nightshade deck, power deck, and sandbox deck)
+
+v5- New deck, new consumables, and, for the first time ever, new editions! (new deck: AntiAntiMatter Deck, which applies the negative effects of all decks, but starts you off with 10 hands and 9 discards. New editions: Plasma, Cracked, Crystal, and platinum. New consumables: The hammer (tarot), The polisher (spectral), and the scientist (Tarot)
